@@ -74,8 +74,16 @@ Shoe-Retail-Sales-Analytics/
 └── README.md
 ```
 
-## Limitations
-This project analyzes sales revenue and purchasing expenditure separately. It does not calculate verified profit or actual current inventory because the dataset does not provide a complete inventory-costing history or opening stock.
+## Dashboard Previews
+
+### 1. Sales Overview
+![Sales Overview Dashboard](images/sales-overview.png)
+
+### 2. Product Performance
+![Product Performance Dashboard](images/product-performance.png)
+
+### 3. Inventory & Procurement
+![Inventory and Procurement Dashboard](images/inventory-procurement.png)
 
 ## Conclusion
 This project demonstrates practical SQL analysis, data aggregation, and Tableau dashboard development to derive actionable insights from retail sales and purchasing data.
